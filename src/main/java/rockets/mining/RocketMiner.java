@@ -12,7 +12,7 @@ import java.util.Collection;
 import java.util.Comparator;
 import java.util.List;
 import java.util.stream.Collectors;
-
+//TEST FOR JENKINS
 public class RocketMiner {
     private static Logger logger = LoggerFactory.getLogger(RocketMiner.class);
 
